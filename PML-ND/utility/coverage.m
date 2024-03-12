@@ -33,4 +33,4 @@ function Coverage=coverage(Outputs,test_target)
            end
            cover=cover+(num_class-temp_min+1);
        end
-       Coverage=(cover/num_instance)-1;
+       Coverage=((cover/num_instance)-1)/num_class;
