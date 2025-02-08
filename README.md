@@ -1,6 +1,6 @@
-## Negative-Label-and-Noise-Feature-Guided-Disambiguation-for-Partial-Multi-Label-Learning
+## Negative-Label-and-Noise-Information-Guided-Disambiguation-for-Partial-Multi-Label-Learning
 ## This is the relevant code for PML-ND
-## The article "Negative Label and Noise Feature Guided Disambiguation for Partial Multi Label Learning" has been accepted by IEEE Transactions on Multimedia.
+## The article "[Negative Label and Noise Information Guided Disambiguation for Partial Multi-Label Learning](https://ieeexplore.ieee.org/document/10533859)" has been accepted by IEEE Transactions on Multimedia.
 ## Citing
 If you find this code useful, please consider to cite our work.
 ```
