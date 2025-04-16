@@ -9,6 +9,8 @@ If you find this code useful, please consider to cite our work.
   author={Zhong, Jingyu and Shang, Ronghua and Zhao, Feng and Zhang, Weitong and Xu, Songhua},
   journal={IEEE Transactions on Multimedia},
   year={2024},
+  volume={26},
+  pages={9920-9935},
   publisher={IEEE}
 }
 ```
